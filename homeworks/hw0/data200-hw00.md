@@ -5,14 +5,14 @@
 
 <font color='red'>**Due Date:** Sep, 10 beginning of class </font>
 ---
-Welcome!🎪 You will turn in your assignment by making changes on this Jupyter Notebook file which is already saved on your Github repository after you accepted my invitation for the assignment. You will work on this file locally. (You can either manually download the files from the online repo, or "clone" it via "Code">"Open with Github Desktop" which downloads a local copy for you, and makes "committing" easier.) Once you finish and you are ready to submit, go to Github and "commit" + "push" to turn in your assignment. Make sure to submit two things: Your completed assignment **as a Markdown file** and the source **.ipynb file**.
+Welcome!🎪You will turn in your assignment by making changes on this Jupyter Notebook file which is already saved on your Github repository after you accepted my invitation for the assignment. You will work on this file locally. (You can either manually download the files from the online repo, or "clone" it via "Code">"Open with Github Desktop" which downloads a local copy for you, and makes "committing" easier.) Once you finish and you are ready to submit, go to Github and "commit" + "push" to turn in your assignment. Make sure to submit two things: Your completed assignment **as a Markdown file** and the source **.ipynb file**.
 
 I will grade your assignment by opening your "hw0.ipynb" file in Jupyter (in a directory containing all required data files), clicking "Kernel > Restart & Run All", reading the output, and reading your "hw0.md" file. Any code that fails to run due to errors receives a 0, so make sure to "Restart & Run All" your file and verify that all code runs without any issues before you submit.
 
 Please enter your name by double clicking on the cell below, and after yout your name, run it with Shift + Enter.
 
 
-# Name:
+# Name: Noah Lape
 
 # Task 1
 
@@ -24,7 +24,7 @@ print("Hello World!")
 ```
 
     Hello World!
-
+    
 
 Now, go ahead and write python code in the chunk below that prints your favorite movie. Here is my output:
 
@@ -32,8 +32,11 @@ Now, go ahead and write python code in the chunk below that prints your favorite
 
 
 ```python
-
+print("Hey! MY favorite movie is Searching for Bobby Fischer!")
 ```
+
+    Hey! MY favorite movie is Searching for Bobby Fischer!
+    
 
 # Task 2
 
